@@ -5,7 +5,7 @@
  */
 package parte2_github_3;
 
-/**Tercer_commit
+/**Segundo_commit
  *
  * @author A15Fernandosv
  */
